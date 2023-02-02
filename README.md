@@ -26,7 +26,7 @@ When looking at each lot individually, Lot1 and Lot2 are compliant with manufact
 
 T-Tests were used to determine if the PSI across all manufacturing lots, grouped and individually, is statistically different from the population mean of 1,500 pounds psi. These were the results:
 
-* The t-test performed on across all manufacturing lots returned a p-value of 0.06, with a significance value of 0.05, there is not sufficient evidence to reject the null hypothesis. In other words, the mean PSI of 1498.78 across all manufacturing lots in this dataset is not statistically different from the population mean of 1,500 pounds PSI.
+* The t-test performed across all manufacturing lots returned a p-value of 0.06, with a significance value of 0.05, there is not sufficient evidence to reject the null hypothesis. In other words, the mean PSI of 1,498.78 across all manufacturing lots in this dataset is not statistically different from the population mean of 1,500 pounds PSI.
 
 ![all_lots_ttest.png](https://github.com/fabeza/MechaCar_Statistical_Analysis/blob/07c9c861e25dd2608a1faa3f197b86037eab9496/Images/all_lots_ttest.png)
 
